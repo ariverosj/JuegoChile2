@@ -2156,6 +2156,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Cultist_Assassin_NoEffect_Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 84
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef6d3c11033b144b94d5135117cd3ea
+      internalID: -1864187117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -2250,6 +2271,7 @@ TextureImporter:
       Cultist_Assassin_NoEffect_Sheet_81: 684359294207409570
       Cultist_Assassin_NoEffect_Sheet_82: -359922295161028739
       Cultist_Assassin_NoEffect_Sheet_83: -6154034854779616678
+      Cultist_Assassin_NoEffect_Sheet_84: -1864187117
       Cultist_Assassin_NoEffect_Sheet_9: -831032362738971604
   spritePackingTag: 
   pSDRemoveMatte: 0

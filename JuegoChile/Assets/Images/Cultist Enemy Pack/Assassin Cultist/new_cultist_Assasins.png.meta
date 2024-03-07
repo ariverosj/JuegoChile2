@@ -1,0 +1,1939 @@
+fileFormatVersion: 2
+guid: 41e9030a41f161644b42e13ae705a10e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: new_cultist_Assasins_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 304
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebe884c40ddb3e498512838e9ebf090
+      internalID: 1611394243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 304
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c2b90a2bea9394f8babf6f014eed81
+      internalID: -297455678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 304
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24c8b8f4c95a1544a82af654b2ff2be
+      internalID: -1882077898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 304
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bf9591e990ef446a9cab992e013331
+      internalID: -1649791540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 304
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2bf283a407e8e4287698aeb604b529
+      internalID: -362406020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 304
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a107b0d3ac1fb2841ad1606f28a4d7d1
+      internalID: 243389767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 304
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bc952221d25bd49a553be23b635e24
+      internalID: -1310955564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_7
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 304
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4f75bcab2c44f43bcb96dc526b065b
+      internalID: 915262198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 304
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5011e0cd58bdc404abd1f9ebf3e8b0c7
+      internalID: -2108439991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 304
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9d1e9b7156bf74aa39f1983541c48d
+      internalID: 510181013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 266
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df4db30688bba745ab285c17d431465
+      internalID: -1217137518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 266
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28be3d44522831f43b9bf5e69f3fde58
+      internalID: 186908281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 266
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505b353a73347ec4397987e3a4790f39
+      internalID: 1966246339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 266
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482a809389343e549bf99e26f7c2916d
+      internalID: 1714211902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 266
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b178a42e7843c41b7a31b70a0c1e14
+      internalID: 684360090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 266
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56e5fc8fd077ae449b5fab2fc0efd61
+      internalID: 1385601831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 266
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad799a3385bb194cbf1fd6602ab3d45
+      internalID: -299253862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_17
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 266
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030885bee689c5d4198fd4cc9e16a329
+      internalID: 10887746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 266
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1014d0eeeb1ba4284c670536b22340
+      internalID: 561467922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_19
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 266
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd0024fdef6ec340af2f77c4e9fb747
+      internalID: 1007098907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31823108e8120d845ae4fa2cc474e022
+      internalID: -850257460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 228
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045329a7b5240a44a8ed895b053a870f
+      internalID: 1468640129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 228
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77c56717d1a59e45b21e3ab0f0cd034
+      internalID: -281118860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 228
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a067ee7d47700d64aad2ca7a0440705c
+      internalID: -1138690428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 228
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8256385fc823c1e44ac67badd2b29c17
+      internalID: 477452029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 228
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92bcc602d042784d9727b808cc4ff06
+      internalID: 1628207821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 228
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf243e457d0981438f4e8e3a7515753
+      internalID: -969524318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_27
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 228
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d2f5a04e964c04aa6e7caa5156aa20
+      internalID: -270605594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 228
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2130161a22539174caf4d68c37c33eea
+      internalID: 722779847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_29
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 228
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205fcde859f70ed4b80e5de98cf0a7b9
+      internalID: 129860704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 190
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d082596f8b02c854e9c76d806d139ba7
+      internalID: 1349551665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 190
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8c74c8dadc3b04785c2d3cc85bc391
+      internalID: -1171652749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 190
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c387d293f8c47c448b867f379398f76
+      internalID: -1221248822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 190
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20724a269e24cef4791193c786cd135e
+      internalID: 183478312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_34
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 190
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba939e55644bb2c4aa20699e837d1fe8
+      internalID: 1378735563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_35
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 190
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38ea8eee662d0648973328d9fd9bf12
+      internalID: -1264735863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 190
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8df98c9141f4124aae258e8157d2308
+      internalID: -1580447432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_37
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 190
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b476b1178765e47b43e5aa11039bc7
+      internalID: 1033287960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_38
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 190
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217fc8be2373c64478d10ea711bcd131
+      internalID: -852178462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_39
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 190
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec69ca1f9637c14469ae0b6aa7d60156
+      internalID: -2025478341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 152
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cbcb5b50cf6174fb89a636189ccd12
+      internalID: -176731805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 152
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a1a92a1b7706748ad86eca1a9855c1
+      internalID: -1471821019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_42
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 152
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdc7a8465d2af647a7032f8ef0d59e4
+      internalID: -1615886998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 152
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfb6ef72174af947944b9cbfcfd70a4
+      internalID: 2104607921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_44
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 152
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce35e7aa5fc8d54db3946f15f8a87b8
+      internalID: -816140842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_45
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 152
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028bfe4b3d687054ab71dd813ac51d86
+      internalID: -749488854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 152
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f07f64875afc814fa7807cde2e23229
+      internalID: -2043195024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_47
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 152
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacef6affab833f4eac6cd3770d4b5bb
+      internalID: -756295087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_48
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 152
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64742ed0da85d4146b31ebc3cf794f34
+      internalID: -1499574207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_49
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 152
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e4b90e75017c347a078f74067c83ea
+      internalID: 49259428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4db79e80033aba4db5ba0b30e22ee85
+      internalID: -389245390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 114
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56c9097a3af447489a2c8d344ed3b05
+      internalID: 2032023597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_52
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 114
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37d73b5868a2e6499a1f83982cd3bc7
+      internalID: -172157956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 114
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9b6d20c4ce01e41961e5f5c7c27794
+      internalID: 1442631855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_54
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 114
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97451d276a63e54e87c8d1cc551e2f7
+      internalID: -1490134988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_55
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 114
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b569d9e6647a045a56447a1eb58374
+      internalID: -1660362810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 114
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e522a098fb14849943fcd0a182af12
+      internalID: 808433899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_57
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 114
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f42f23cfd706a4981edc8a34971f4f
+      internalID: -754888931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_58
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 114
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a4f4db2bebccf4690c5be957ceb203
+      internalID: 804822348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_59
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 114
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c19ba1932b73f42b74a685e13a0ac2
+      internalID: -917781677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 76
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17856944dec4294a96a0d200b8a8ff1
+      internalID: -1480908556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 76
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ce15a3cf986aa4f81059f91544dd8b
+      internalID: -624814253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_62
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de706e7c10ebbe04a9c81a08d5dac00f
+      internalID: 1510641559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_63
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 76
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be9309ca1193bd43829b35b693a4ef7
+      internalID: -1315785097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 76
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72a0a6b5392d854592b88994e8afde5
+      internalID: -1783422316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_65
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 76
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63308843063501409eab4782af28399
+      internalID: -84829147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 76
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a406c6dca7a9a4540b531f6e69b69c87
+      internalID: 1600355422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_67
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 76
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daddd0cbb49cf94e80671f80fb0fc77
+      internalID: 1240485395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_68
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 76
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291e99ef9b823fa469c8c48e87f09578
+      internalID: -1597227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_69
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 76
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478617e5554876d40ab6f311627f16fc
+      internalID: 1531845535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe4ec608315d9a42ba884d378551b97
+      internalID: -1538290013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_71
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 38
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b16c438f8e45a47ad0f90d419f2d94
+      internalID: -1939810509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_72
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 38
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5db1dccf37c66408a80eb93e652829
+      internalID: -1217091650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 38
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a511231f4ce45246bc6a24b2f5258e9
+      internalID: -1486236869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_74
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 38
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23affd0cd01d46f4b83cbd05830f1854
+      internalID: 433465000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_75
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 38
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f47938ebb9adcc408417b554a970cf9
+      internalID: 153803624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 38
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ea5079288762f4db88e8ba194f6b88
+      internalID: 2126246870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_77
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 38
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65bd27584b22de40b0a76322466fa35
+      internalID: 267017233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_78
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 38
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfce0dc1c010de4d988ff8ea79ad926
+      internalID: -1027800288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_79
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 38
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2ba272c2fc77d41bf4c59f04dc5313
+      internalID: 1515633883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030c49611edd1fb4584a23ca6201d98f
+      internalID: 485964638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_cultist_Assasins_81
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1135efe5e5f70654eb17effa7f1ecc74
+      internalID: -484002766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      new_cultist_Assasins_0: 1611394243
+      new_cultist_Assasins_1: -297455678
+      new_cultist_Assasins_10: -1217137518
+      new_cultist_Assasins_11: 186908281
+      new_cultist_Assasins_12: 1966246339
+      new_cultist_Assasins_13: 1714211902
+      new_cultist_Assasins_14: 684360090
+      new_cultist_Assasins_15: 1385601831
+      new_cultist_Assasins_16: -299253862
+      new_cultist_Assasins_17: 10887746
+      new_cultist_Assasins_18: 561467922
+      new_cultist_Assasins_19: 1007098907
+      new_cultist_Assasins_2: -1882077898
+      new_cultist_Assasins_20: -850257460
+      new_cultist_Assasins_21: 1468640129
+      new_cultist_Assasins_22: -281118860
+      new_cultist_Assasins_23: -1138690428
+      new_cultist_Assasins_24: 477452029
+      new_cultist_Assasins_25: 1628207821
+      new_cultist_Assasins_26: -969524318
+      new_cultist_Assasins_27: -270605594
+      new_cultist_Assasins_28: 722779847
+      new_cultist_Assasins_29: 129860704
+      new_cultist_Assasins_3: -1649791540
+      new_cultist_Assasins_30: 1349551665
+      new_cultist_Assasins_31: -1171652749
+      new_cultist_Assasins_32: -1221248822
+      new_cultist_Assasins_33: 183478312
+      new_cultist_Assasins_34: 1378735563
+      new_cultist_Assasins_35: -1264735863
+      new_cultist_Assasins_36: -1580447432
+      new_cultist_Assasins_37: 1033287960
+      new_cultist_Assasins_38: -852178462
+      new_cultist_Assasins_39: -2025478341
+      new_cultist_Assasins_4: -362406020
+      new_cultist_Assasins_40: -176731805
+      new_cultist_Assasins_41: -1471821019
+      new_cultist_Assasins_42: -1615886998
+      new_cultist_Assasins_43: 2104607921
+      new_cultist_Assasins_44: -816140842
+      new_cultist_Assasins_45: -749488854
+      new_cultist_Assasins_46: -2043195024
+      new_cultist_Assasins_47: -756295087
+      new_cultist_Assasins_48: -1499574207
+      new_cultist_Assasins_49: 49259428
+      new_cultist_Assasins_5: 243389767
+      new_cultist_Assasins_50: -389245390
+      new_cultist_Assasins_51: 2032023597
+      new_cultist_Assasins_52: -172157956
+      new_cultist_Assasins_53: 1442631855
+      new_cultist_Assasins_54: -1490134988
+      new_cultist_Assasins_55: -1660362810
+      new_cultist_Assasins_56: 808433899
+      new_cultist_Assasins_57: -754888931
+      new_cultist_Assasins_58: 804822348
+      new_cultist_Assasins_59: -917781677
+      new_cultist_Assasins_6: -1310955564
+      new_cultist_Assasins_60: -1480908556
+      new_cultist_Assasins_61: -624814253
+      new_cultist_Assasins_62: 1510641559
+      new_cultist_Assasins_63: -1315785097
+      new_cultist_Assasins_64: -1783422316
+      new_cultist_Assasins_65: -84829147
+      new_cultist_Assasins_66: 1600355422
+      new_cultist_Assasins_67: 1240485395
+      new_cultist_Assasins_68: -1597227
+      new_cultist_Assasins_69: 1531845535
+      new_cultist_Assasins_7: 915262198
+      new_cultist_Assasins_70: -1538290013
+      new_cultist_Assasins_71: -1939810509
+      new_cultist_Assasins_72: -1217091650
+      new_cultist_Assasins_73: -1486236869
+      new_cultist_Assasins_74: 433465000
+      new_cultist_Assasins_75: 153803624
+      new_cultist_Assasins_76: 2126246870
+      new_cultist_Assasins_77: 267017233
+      new_cultist_Assasins_78: -1027800288
+      new_cultist_Assasins_79: 1515633883
+      new_cultist_Assasins_8: -2108439991
+      new_cultist_Assasins_80: 485964638
+      new_cultist_Assasins_81: -484002766
+      new_cultist_Assasins_9: 510181013
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
